@@ -1,0 +1,112 @@
+{
+  "happy-snake": {
+    "original_url": "https://www.youtube.com/watch?v=PEaliqYp3iQ",
+    "created_at": "2026-01-14T21:59:49.427512",
+    "clicks": [
+      {
+        "timestamp": "2026-01-14T22:00:01.583347",
+        "device": {
+          "os": "Unknown",
+          "browser": "Other",
+          "type": "Desktop"
+        },
+        "ip": "92.40.182.39"
+      },
+      {
+        "timestamp": "2026-01-14T22:00:22.883755",
+        "device": {
+          "os": "Linux",
+          "browser": "Chrome",
+          "type": "Mobile"
+        },
+        "ip": "85.255.236.199"
+      },
+      {
+        "timestamp": "2026-01-14T22:02:54.204390",
+        "device": {
+          "os": "Unknown",
+          "browser": "Other",
+          "type": "Desktop"
+        },
+        "ip": "2620:121:5042:50:fa9e::1"
+      },
+      {
+        "timestamp": "2026-01-14T22:07:55.441649",
+        "device": {
+          "os": "Linux",
+          "browser": "Chrome",
+          "type": "Mobile"
+        },
+        "ip": "2a02:6ea0:d33b:2567::11"
+      },
+      {
+        "timestamp": "2026-01-14T22:15:22.858167",
+        "device": {
+          "os": "Linux",
+          "browser": "Chrome",
+          "type": "Mobile"
+        },
+        "ip": "85.255.236.223",
+        "location": {
+          "country": "United Kingdom",
+          "region": "England",
+          "city": "Tilehurst",
+          "latitude": 51.4565,
+          "longitude": -1.0437,
+          "isp": "Vodafone UK"
+        }
+      },
+      {
+        "timestamp": "2026-01-14T22:15:45.823740",
+        "device": {
+          "os": "Linux",
+          "browser": "Chrome",
+          "type": "Mobile"
+        },
+        "ip": "85.255.236.223",
+        "location": {
+          "country": "United Kingdom",
+          "region": "England",
+          "city": "Tilehurst",
+          "latitude": 51.4565,
+          "longitude": -1.0437,
+          "isp": "Vodafone UK"
+        }
+      },
+      {
+        "timestamp": "2026-01-14T22:27:29.621788",
+        "device": {
+          "os": "Unknown",
+          "browser": "Other",
+          "type": "Desktop"
+        },
+        "ip": "92.40.182.39",
+        "location": {
+          "country": "United Kingdom",
+          "region": "England",
+          "city": "Manchester",
+          "latitude": 53.5328,
+          "longitude": -2.2794,
+          "isp": "Hutchison 3G UK Ltd"
+        }
+      },
+      {
+        "timestamp": "2026-01-14T22:38:17.826780",
+        "device": {
+          "os": "Linux",
+          "browser": "Chrome",
+          "type": "Mobile"
+        },
+        "ip": "185.184.192.230",
+        "location": {
+          "country": "The Netherlands",
+          "region": "South Holland",
+          "city": "Naaldwijk",
+          "latitude": 51.9968,
+          "longitude": 4.2057,
+          "isp": "WorldStream B.V."
+        }
+      }
+    ]
+  }
+}
